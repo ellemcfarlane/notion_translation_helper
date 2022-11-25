@@ -1,5 +1,5 @@
 # About
-Automates process of inserting excel translations, e.g. from [Language Reactor](https://www.languagereactor.com/). See data format example in data/example.xlsx.
+Automates process of inserting excel translations, e.g. from [Language Reactor](https://www.languagereactor.com/) into Notion databases. See data format example in data/example.xlsx.
 
 # Setup
 Create a .env file like so:
