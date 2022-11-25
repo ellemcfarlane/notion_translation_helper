@@ -1,3 +1,6 @@
+# About
+Automates process of inserting excel translations, e.g. from [Language Reactor](https://www.languagereactor.com/). See data format example in data/example_data.xlsz.
+
 # Setup
 Create a .env file like so:
 
